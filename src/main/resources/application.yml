@@ -3,4 +3,4 @@ micronaut:
         name: badges-ninja
 
     server:
-        port: 8080
+        port: 80
